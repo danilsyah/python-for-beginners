@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-inp = input('Enter the string : ')
-b = '(){}[]'
-final = ''
-for c in inp :
-    if c not in b :
-        final = final + c
-
-print(final)
-=======
 def add(x, y):
     return x + y
 
@@ -56,4 +46,3 @@ while True:
         break
     else:
         print('Invalid number!')
->>>>>>> 65ffda929cafca174840511ce3551f370332a2ac
